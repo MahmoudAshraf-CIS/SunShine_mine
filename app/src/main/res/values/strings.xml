@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Refresh">Refresh</string>
+    <string name="degree">"21&#xb0;"</string>
+    <string name="degree2">"8&#xb0;"</string>
+</resources>
