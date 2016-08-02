@@ -1,7 +1,32 @@
 <resources>
-    <string name="app_name">Sunshine</string>
+    <string name="app_name">SunShine_mine</string>
+
     <string name="action_settings">Settings</string>
     <string name="action_Refresh">Refresh</string>
-    <string name="degree">"21&#xb0;"</string>
-    <string name="degree2">"8&#xb0;"</string>
+    <string name="action_map">Show On Map</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_oneDay">dayInfo</string>
+    <string name="title_main">SunShine_App</string>
+    <string name="title_settings">Settings</string>
+    <string name="lable_location">City</string>
+
+    <string name="pref_location_lable">Location</string>
+    <string name="pref_location_key" >location</string>
+    <string name="pref_location_default">cairo</string>
+
+    <string name="pref_unit_default">celsius</string>
+    <string name="pref_unit_title">Unite</string>
+    <string name="pref_unit_key">unite</string>
+    <array name="pref_entries">
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </array>
+
+    <array name="entryValues">
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </array>
+
 </resources>

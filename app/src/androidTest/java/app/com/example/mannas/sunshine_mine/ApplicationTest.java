@@ -1,4 +1,4 @@
-package app.com.example.mannas.sunshine;
+package app.com.example.mannas.sunshine_mine;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
